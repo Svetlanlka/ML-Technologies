@@ -1,0 +1,8 @@
+env/
+nir/data/
+nir/env/
+__pycache__/
+.cache
+nir/model_eigenfaces.yml
+nir/model_fisherfaces.yml
+nir/model_lbph.yml
